@@ -1,0 +1,77 @@
+{
+  "/Users/patrickboelens/Java games/slick.jar": {
+    "location": "/Users/patrickboelens/Java games/slick.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/Users/patrickboelens/Java games/slick.jar\u0027. Neither fingerprint \u0027dcb1c4dfb10f3e37cc950dd051668c0ae50134e3\u0027 nor symbolic name \u0027slick\u0027 are known."
+  },
+  "/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar",
+    "status": "RESOLVED"
+  },
+  "/Users/patrickboelens/Java games/RotoPong/src": {
+    "location": "/Users/patrickboelens/Java games/RotoPong/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/patrickboelens/Java games/RotoPong/src\u0027. Skipped."
+  },
+  "/Users/patrickboelens/Java games/SourceFight/src": {
+    "location": "/Users/patrickboelens/Java games/SourceFight/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/patrickboelens/Java games/SourceFight/src\u0027. Skipped."
+  },
+  "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/rt.jar": {
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/rt.jar\u0027. Skipped."
+  },
+  "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar",
+    "status": "RESOLVED"
+  },
+  "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/slick.jar": {
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/slick.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/slick.jar\u0027. Neither fingerprint \u002796460b0333ab90f44b76d12b7e77a42dc48e5f26\u0027 nor symbolic name \u0027slick\u0027 are known."
+  },
+  "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/src": {
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/patrickboelens/Java games/slick_dev/trunk/Slick/src\u0027. Skipped."
+  },
+  "/Users/patrickboelens/Java games/ICN/src": {
+    "location": "/Users/patrickboelens/Java games/ICN/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/patrickboelens/Java games/ICN/src\u0027. Skipped."
+  },
+  "/Users/patrickboelens/Java games/sqljet-1.1.7/sqljet-1.1.7.jar": {
+    "location": "/Users/patrickboelens/Java games/sqljet-1.1.7/sqljet-1.1.7.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/Users/patrickboelens/Java games/sqljet-1.1.7/sqljet-1.1.7.jar\u0027. Neither fingerprint \u002778818ee2e8c46b25aaede5ada7b17c30da285397\u0027 nor symbolic name \u0027sqljet-1.1.7\u0027 are known."
+  },
+  "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/lwjgl.jar": {
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/lwjgl.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/lwjgl.jar\u0027. Neither fingerprint \u0027ab3abd171f45cc01d3938dc3d4bb5c50d6b450d3\u0027 nor symbolic name \u0027lwjgl\u0027 are known."
+  },
+  "/Users/patrickboelens/Java games/lwjgl-2.8.5/jar/lwjgl_util.jar": {
+    "location": "/Users/patrickboelens/Java games/lwjgl-2.8.5/jar/lwjgl_util.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/Users/patrickboelens/Java games/lwjgl-2.8.5/jar/lwjgl_util.jar\u0027. Neither fingerprint \u002747adcb8e077226e26b3ebeeeb21b31bb46286024\u0027 nor symbolic name \u0027lwjgl_util\u0027 are known."
+  },
+  "/Users/patrickboelens/Java games/lwjgl-2.8.5/jar/lwjgl.jar": {
+    "location": "/Users/patrickboelens/Java games/lwjgl-2.8.5/jar/lwjgl.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/Users/patrickboelens/Java games/lwjgl-2.8.5/jar/lwjgl.jar\u0027. Neither fingerprint \u0027b9acde346914aa47ff87ae0bbab4b29fe2ec13fd\u0027 nor symbolic name \u0027lwjgl\u0027 are known."
+  },
+  "/Users/patrickboelens/Desktop/Beads/library/beads.jar": {
+    "location": "/Users/patrickboelens/Desktop/Beads/library/beads.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/Users/patrickboelens/Desktop/Beads/library/beads.jar\u0027. Neither fingerprint \u0027f6aead9d3b2c31dc68114a68e9771aad61d7c803\u0027 nor symbolic name \u0027beads\u0027 are known."
+  },
+  "/Users/patrickboelens/Java games/BeadsTest/src": {
+    "location": "/Users/patrickboelens/Java games/BeadsTest/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/patrickboelens/Java games/BeadsTest/src\u0027. Skipped."
+  }
+}

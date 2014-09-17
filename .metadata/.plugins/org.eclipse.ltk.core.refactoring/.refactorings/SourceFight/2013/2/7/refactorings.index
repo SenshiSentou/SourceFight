@@ -1,0 +1,6 @@
+1360782446585	Rename method 'chargeAtOpponent'
+1360782459583	Rename method 'abortChargingAtOpponent'
+1360782995263	Rename method 'exitAiState'
+1360783001794	Rename method 'enterAiState'
+1360837435889	Rename field 'comboWishlist'
+1360856084884	Rename field 'aiLastUpdateTime'

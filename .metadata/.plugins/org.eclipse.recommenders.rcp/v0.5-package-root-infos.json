@@ -1,0 +1,730 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c930db21a41fc664ddad3d5a967a1d4442aad44b",
+    "jarFileModificationDate": "2009-07-21T01:29:55+02:00",
+    "location": "/System/Library/Java/Extensions/j3dcore.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "06310451174a0a78a21813ed5ff4b3c089f0c712",
+    "jarFileModificationDate": "2011-09-03T01:38:13+02:00",
+    "location": "/System/Library/Java/Extensions/AppleScriptEngine.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "slick",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dcb1c4dfb10f3e37cc950dd051668c0ae50134e3",
+    "jarFileModificationDate": "2012-12-24T18:33:17+01:00",
+    "location": "/Users/patrickboelens/Java games/slick.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.antlr.antlr-runtime",
+    "version": {
+      "major": 3,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8f011408269a8e42b8548687e137d8eeb56df4b4",
+    "jarFileModificationDate": "2012-05-08T21:15:10+02:00",
+    "location": "/Users/patrickboelens/Java games/sqljet-1.1.7/antlr-runtime-3.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ab18e79cbec442e54d9dac9f9822ec8902b7e243",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7f97422aed2da1cfed746ba1918ac35a741d7fbb",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jorbis-0.0.15",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8010acdcf550f7c5d5ac64833fffa008e22c18f7",
+    "jarFileModificationDate": "2013-03-01T20:15:21+01:00",
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/jorbis-0.0.15.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "07cab420d675056c0127673278cce19dbccd1fc9",
+    "jarFileModificationDate": "2011-06-01T04:33:50+02:00",
+    "location": "/System/Library/Java/Extensions/QTJava.zip",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a4096f2caa249c964eae7dc1e4937771f74af1ba",
+    "jarFileModificationDate": "2013-04-07T20:05:16+02:00",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/apple_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "97c538d1f62c9d9baf7d81a7b37cd0858ad347e4",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/JObjC.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jinput",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d5a40f2a25f8b4ec1ea35f3e5ca79119ed5d027",
+    "jarFileModificationDate": "2013-03-01T20:15:21+01:00",
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/jinput.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "faa14434af9de6e3614c614170479452d2828dd6",
+    "jarFileModificationDate": "2013-04-05T20:19:59+02:00",
+    "location": "/System/Library/Java/Extensions/MRJToolkit.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "mp3spi1.9.4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "beccb1a3e766d0bd782a174d7cca0a47ba3b89d8",
+    "jarFileModificationDate": "2010-04-18T00:57:48+02:00",
+    "location": "/Users/patrickboelens/Desktop/Beads/library/mp3spi1.9.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jnlp",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "456a222ba1345d564caf7cd3699d8fa98eefe219",
+    "jarFileModificationDate": "2013-03-01T20:15:21+01:00",
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/jnlp.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jogg-0.0.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "08d79e2bf312278ed077054d620631755851b8a8",
+    "jarFileModificationDate": "2013-03-01T20:15:21+01:00",
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/jogg-0.0.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bcd6ab898f8c739b8347e7daa8fe1de5f375b39d",
+    "jarFileModificationDate": "2013-04-07T19:50:33+02:00",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d32840d0c7514333a375e639559544411e8afce5",
+    "jarFileModificationDate": "2013-04-07T19:59:05+02:00",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4731789441305dfce41c8212cbda506550808a73",
+    "jarFileModificationDate": "2009-05-18T20:20:24+02:00",
+    "location": "/System/Library/Java/Extensions/jai_codec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0ee2c74c93b0b37e53210687b2a8db8f6e15440c",
+    "jarFileModificationDate": "2009-07-21T01:29:55+02:00",
+    "location": "/System/Library/Java/Extensions/j3daudio.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "sqljet-1.1.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78818ee2e8c46b25aaede5ada7b17c30da285397",
+    "jarFileModificationDate": "2013-03-04T16:26:44+01:00",
+    "location": "/Users/patrickboelens/Java games/sqljet-1.1.7/sqljet-1.1.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org-netbeans-swing-outline-RELEASE68",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8878242c1f28caf7dde3a0f23fc2cd29df26660a",
+    "jarFileModificationDate": "2012-05-08T21:23:30+02:00",
+    "location": "/Users/patrickboelens/Java games/sqljet-1.1.7/org-netbeans-swing-outline-RELEASE68.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl_util_applet",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0891820b8d36b35989a321fcc606461c180104c0",
+    "jarFileModificationDate": "2013-03-01T20:15:21+01:00",
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/lwjgl_util_applet.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "52472f43749985b0b2bb2eeefe4da531a776408f",
+    "jarFileModificationDate": "2009-07-21T01:29:55+02:00",
+    "location": "/System/Library/Java/Extensions/vecmath.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2aeafae8b3ae6f162a9720568ad73eab9ec91a5a",
+    "jarFileModificationDate": "2011-05-26T23:40:55+02:00",
+    "location": "/System/Library/Java/Extensions/dns_sd.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6ff4ae92995ee1b328c424222e0f2655baa4fa3f",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c4c7923b11e98bc8d1d32bfd2ff6363d212ead80",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/ext/sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c40b948a8103c939a0da54723630db9d4633c350",
+    "jarFileModificationDate": "2013-04-07T19:50:33+02:00",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f61f71496ffdd90c7b1af3c651a2223e906508a5",
+    "jarFileModificationDate": "2013-04-07T19:55:39+02:00",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c5d7b7bfab9b433c4b62aebbe76a564b6bcf8192",
+    "jarFileModificationDate": "2009-05-18T20:19:48+02:00",
+    "location": "/System/Library/Java/Extensions/mlibwrapper_jai.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "tritonus_share",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e5646da280be9f1e07301b35339a376ac640df9f",
+    "jarFileModificationDate": "2010-04-18T00:57:48+02:00",
+    "location": "/Users/patrickboelens/Desktop/Beads/library/tritonus_share.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8367ff02f729bfc46a6fb8b4d66860666baf8e93",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "lwjgl",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b9acde346914aa47ff87ae0bbab4b29fe2ec13fd",
+    "jarFileModificationDate": "2012-11-04T20:20:28+01:00",
+    "location": "/Users/patrickboelens/Java games/lwjgl-2.8.5/jar/lwjgl.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fc298db8a7cf057654edbda46b274b9f24ce8bd8",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/ext/zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "273633a81e294cc4be3e7e3b4ff88c5b2c02b8c0",
+    "jarFileModificationDate": "2009-07-21T01:29:55+02:00",
+    "location": "/System/Library/Java/Extensions/j3dutils.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3ac0c8cd9d93963c38788617d70b852235c03e54",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d0885591774886ccf2c4832a121568fd323c870e",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "70e3f9e76e3d5884415516c0cee0855295bcb571",
+    "jarFileModificationDate": "2013-04-07T19:50:33+02:00",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e21cf7e6eede1f8d576c146006d82829c5575fc3",
+    "jarFileModificationDate": "2013-04-07T19:59:13+02:00",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "slick",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "be27cf40667b008cca0837da02bb5c529ff37968",
+    "jarFileModificationDate": "2013-04-18T22:13:52+02:00",
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/slick.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "240b4a0777e31516b6ff583d23e030c964bf0376",
+    "jarFileModificationDate": "2013-04-05T20:18:18+02:00",
+    "location": "/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8fa8b667afe43154549af8776597912a274fbc7a",
+    "jarFileModificationDate": "2013-04-07T20:05:08+02:00",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d4751b5265e10370c7cc1dff0fcdc6041d68ca9d",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "beads",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6aead9d3b2c31dc68114a68e9771aad61d7c803",
+    "jarFileModificationDate": "2010-04-18T00:57:48+02:00",
+    "location": "/Users/patrickboelens/Desktop/Beads/library/beads.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "566b2b5e83677752bcae9631b3a8d510f79bb81e",
+    "jarFileModificationDate": "2012-11-28T17:07:33+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "tinylinepp",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2ac720440285d1931b067eae87cc94d42de098c5",
+    "jarFileModificationDate": "2013-03-01T20:15:21+01:00",
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/tinylinepp.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "sqljet-browser-1.1.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2213a3ab12065cfe1ed1e1680ad628b1d21120b5",
+    "jarFileModificationDate": "2013-03-04T16:30:36+01:00",
+    "location": "/Users/patrickboelens/Java games/sqljet-1.1.7/sqljet-browser-1.1.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl_util",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "47adcb8e077226e26b3ebeeeb21b31bb46286024",
+    "jarFileModificationDate": "2012-11-04T20:20:28+01:00",
+    "location": "/Users/patrickboelens/Java games/lwjgl-2.8.5/jar/lwjgl_util.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "565df41f8aaa6dceaacc765dde6bec4572c06eed",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.xerial.sqlite-jdbc",
+    "version": {
+      "major": 3,
+      "minor": 7,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cea9f7f8e6bcb580d953a8651fb8391640de0f85",
+    "jarFileModificationDate": "2013-04-01T04:29:46+02:00",
+    "location": "/Users/patrickboelens/Java games/sqlite-jdbc-3.7.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ea6df3da45b8c6eae05b0340571f9cd20792c673",
+    "jarFileModificationDate": "2009-05-18T20:20:24+02:00",
+    "location": "/System/Library/Java/Extensions/jai_core.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jl1.0.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "33c346fe3c5f75dfbfb477e1f3d8446427633890",
+    "jarFileModificationDate": "2010-04-18T00:57:48+02:00",
+    "location": "/Users/patrickboelens/Desktop/Beads/library/jl1.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c839ed88e8088e9cb03a87265b5a2b55a5bcc40d",
+    "jarFileModificationDate": "2013-04-07T20:02:46+02:00",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ibxm",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "21034b6aae8abb63fd2e689e9f979920630e500f",
+    "jarFileModificationDate": "2013-03-01T20:15:21+01:00",
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/ibxm.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ab3abd171f45cc01d3938dc3d4bb5c50d6b450d3",
+    "jarFileModificationDate": "2013-03-01T20:15:21+01:00",
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/lwjgl.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "128e4b4d1192a58d4e7fc8712a0f1fc7c7d4267d",
+    "jarFileModificationDate": "2013-04-07T19:55:56+02:00",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f831655c50b92c41e366442d09511ea84270c45e",
+    "jarFileModificationDate": "2012-11-28T17:07:32+01:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/jce.jar",
+    "javaRuntime": true
+  }
+]

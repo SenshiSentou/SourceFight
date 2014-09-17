@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="263" key="DIALOG_WIDTH"/>
+		<item value="274" key="DIALOG_Y_ORIGIN"/>
+		<item value="863" key="DIALOG_X_ORIGIN"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="special" key="selection"/>
+		<list key="findhistory">
+			<item value="special"/>
+			<item value="attack("/>
+			<item value="attack"/>
+			<item value="jump"/>
+			<item value="crouc"/>
+			<item value="justlan"/>
+			<item value="paused"/>
+			<item value="stage.get"/>
+		</list>
+		<list key="replacehistory">
+			<item value="rockAnims[2].getHeight()"/>
+			<item value="Main.getGame().getStage().getGroundLevel()"/>
+			<item value="[4]"/>
+			<item value="playerHeight"/>
+			<item value="th[1])"/>
+			<item value="th[0])"/>
+			<item value="th[0]"/>
+			<item value="spriteSheetPathTransformed"/>
+		</list>
+	</section>
+</section>

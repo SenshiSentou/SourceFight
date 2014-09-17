@@ -1,0 +1,36 @@
+,Attack Name,Damage,Side Effects,Anims/Images
+,Basic Commands,,,
+?,Move Left,-,-,walk
+?,Move Right,-,-,walk
+?,Jump,-,-,jump
+?,Crouch,-,-,crouch
+? ?,Run,-,-,run
+? ?,Jump back,-,-,jumpBack
+A,Punch,3,-,punchR1
+B,Kick,5,-,kick1
+C,Mid-level Block,-,-,block1
+[C] [?],High Block,-,-,block2
+[C] [?],Crouch Block,-,-,block3
+[?] [?] C C C,Taunt,-,-,Taunt x6 (individual per character)
+,,,,
+,Ground Combos,,,
+A A A,Combo Punch,"3, 3, 6",-,"punchR1, punchL, punchR2"
+B B B,Combo Kick,"5, 5, 8",-,"kick1, kick1, kick2 (stretch kick)"
+[?] A,Uppercut,8,Launcher,uppercut
+[?] B,Low Kick,5,-,kickLow
+[? ?] A,Running Punch,8,Knockback II,punchRun
+[? ?] B,Running Kick+Slide,10,Knockback II,kickRun (hold last frame for slide)
+[? ?] A,Evading Punch,3,-,punchEvade
+[? ?] B,Evading Kick,5,-,kickEvade
+? ? ? A,Sudden Punch,7,Knockback I,
+? ? ? B,Rotating Kick,9,Launcher,kickRot
+,,,,
+,Mid-air Combos,,,
+[?] A,Drop Punch,8,-,punchDrop
+[?] B,Drop Kick,12,-,kickDrop
+? ? B,(Rotating) Split Kick,10,-,kickSplit
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

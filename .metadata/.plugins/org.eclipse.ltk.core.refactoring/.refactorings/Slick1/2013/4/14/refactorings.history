@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;volume&apos; in &apos;org.newdawn.slick.Music.setPitch(...)&apos; to &apos;pitch&apos;&#x0A;- Original project: &apos;Slick1&apos;&#x0A;- Original element: &apos;org.newdawn.slick.Music.setPitch(float).volume&apos;&#x0A;- Renamed element: &apos;volume&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;volume&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;org.newdawn.slick{Music.java[Music~setPitch~F@volume!9799!9810!9805!9810!F!0!true" name="pitch" references="true" stamp="1365029313770" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;textBoxWidth&apos; in &apos;com.sourcefight.menus.StageSelectMenu.selectMenuItem(...)&apos; to &apos;characterInfoTextBoxWidth&apos;&#x0A;- Original project: &apos;SourceFight&apos;&#x0A;- Original element: &apos;com.sourcefight.menus.StageSelectMenu.selectMenuItem(GameContainer, int).textBoxWidth&apos;&#x0A;- Renamed element: &apos;textBoxWidth&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;textBoxWidth&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.sourcefight.menus{StageSelectMenu.java[StageSelectMenu~selectMenuItem~QGameContainer;~I@textBoxWidth!1646!1668!1650!1661!I!0!false" name="characterInfoTextBoxWidth" references="true" stamp="1365195521684" version="1.0"/>
+</session>

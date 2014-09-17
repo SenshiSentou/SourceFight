@@ -1,0 +1,39 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww19000\viewh10500\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx7340\tx7900\tx8440\tx9040\tx9580\tx10160\tx10720\tx11300\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 0	200		500	  580		880	 960\
+|--------|--------------|--------|------------|-------|\
+    N             Y             N          Y             N\
+\
+\
+
+\b //slash 1
+\b0 \
+200 						[Y]			200 + slashDur\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx7340\tx7900\tx8440\tx9040\tx9580\tx10160\tx10720\tx11300\ql\qnatural\pardirnatural
+\cf0 200 + slashDur 			[N]			200 + slashDur + pause\
+
+\b //slash 2
+\b0 \
+200 + slashDur + pause		[Y 580-880]	200 + slashDur*2 + pause\
+200 + slashDur*2 + pause	[N]			200 + slashDur*2 + pause*2\
+\
+\
+
+\b //Generic
+\b0 \
+200 + (slashDur * (curSlash-1))  + (pause * (curSlash-1))		[Y]		200 + (slashDur * (curSlash)) + (pause * (curSlash-1))\
+200 + (slashDur * (curSlash))							[N]		200 + (slashDur * (curSlash)) + (pause * (curSlash))\
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx7340\tx7900\tx8440\tx9040\tx9580\tx10160\tx10720\tx11300\ql\qnatural\pardirnatural
+\cf0 200 + (300 * (1-1))  + (80 * (1-1))		[Y]		200 + (300 * (1)) + (pause * (1-1)		\{200 [Y] 500\}\
+200 + (300 * (1))					[N]		200 + (300 * (1)) + (pause * (1))		\{500 [N] 580\}\
+\
+curSlash++\
+\
+200 + (300 * (2-1))  + (80 * (2-1))		[Y]		200 + (300 * (2)) + pause * (2-1)		\{580 [Y] 880\}}

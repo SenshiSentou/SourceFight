@@ -1,0 +1,22 @@
+1360024761263	Rename local variable 'm'
+1360253826013	Rename method 'damage'
+1360255157609	Rename field 'numSlashes'
+1360255907691	Rename field 'numSlashesDone'
+1360350914883	Move compilation unit
+1360350940987	Move compilation unit
+1360350959954	Delete element
+1360351230514	Move compilation unit
+1360351256877	Move compilation unit
+1360351446808	Move compilation unit
+1360351449992	Move compilation unit
+1360351508456	Move compilation unit
+1360351596377	Move compilation units
+1360351829601	Move compilation units
+1360352100343	Delete elements
+1360352108259	Delete element
+1360352134178	Delete element
+1360352361489	Move compilation units
+1360352392852	Rename package 'attacks'
+1360352428224	Rename package 'menus'
+1360352433140	Rename package 'stages'
+1360352484543	Rename package 'general'

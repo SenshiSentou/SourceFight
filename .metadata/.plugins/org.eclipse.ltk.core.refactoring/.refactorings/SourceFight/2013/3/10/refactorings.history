@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename enum constant &apos;TurnKick&apos; of &apos;com.sourcefight.general.Character.AnimationState&apos; to &apos;FlipKick&apos;&#x0A;- Original project: &apos;SourceFight&apos;&#x0A;- Original element: &apos;com.sourcefight.general.Character.AnimationState.TurnKick&apos;&#x0A;- Renamed element: &apos;com.sourcefight.general.Character.AnimationState.FlipKick&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename enum constant &apos;TurnKick&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.enum.constant" input="/src&lt;com.sourcefight.general{Character.java[Character[AnimationState^TurnKick" name="FlipKick" references="true" setter="false" stamp="1362415749526" textual="false" version="1.0"/>
+</session>

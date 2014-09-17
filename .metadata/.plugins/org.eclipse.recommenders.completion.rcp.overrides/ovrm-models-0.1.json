@@ -1,0 +1,17 @@
+{
+  "/Users/patrickboelens/Java games/SourceFight/src": {
+    "location": "/Users/patrickboelens/Java games/SourceFight/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/patrickboelens/Java games/SourceFight/src\u0027. Skipped."
+  },
+  "/Users/patrickboelens/Java games/ICN/src": {
+    "location": "/Users/patrickboelens/Java games/ICN/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/patrickboelens/Java games/ICN/src\u0027. Skipped."
+  },
+  "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/slick.jar": {
+    "location": "/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/slick.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/Users/patrickboelens/Java games/slick_dev/trunk/Slick/lib/slick.jar\u0027. Neither fingerprint \u0027e295a542ebb827aca2eb5b9d95db44e2b6962334\u0027 nor symbolic name \u0027slick\u0027 are known."
+  }
+}
