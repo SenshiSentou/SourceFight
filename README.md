@@ -7,7 +7,9 @@ This repository contains all files created as of September 17th 2014 for the Sou
 
 While the folders have been cleaned up a bit, there are likely still a lot of redudant and obsolete files present within this repository. Sorry about that!
 
-The workfiles folder contains a lot of .pxm files; these are Pixelmator workfiles, which unfortunately is only available for OSX. Sorry again!
+The workfiles folder contains a couple of files for specific software. The most common two are:
+- **.pxm**: Pixelmator workfiles, which unfortunately is only available for OSX. Sorry again!
+- **.blend**: Files for the free and open-source 3D suite [Blender](https://blender.org).
 
 The final build is located in SourceFight/Build/SourceFight.jar and can be run using `java -jar SourceFight.jar` if you have JDK 1.6 installed. If you don't you'll need to make your own build, or run from an IDE like Eclipse directly. Eclipse metadata is also included.
 
